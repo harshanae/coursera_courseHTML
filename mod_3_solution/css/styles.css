@@ -1,0 +1,65 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #0C2641;
+}
+
+#header-nav{
+	background-color: #2163A5;
+}
+
+#header-nav h1{
+	line-height: 0.50;
+}
+
+.navbar-brand{
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+.navbar-brand h1{
+	font-size: 1.5em;
+	color: #fff;
+}
+
+.navbar-brand a{
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle{
+	border: 1px solid #fff;
+	float: right;
+	margin-top: -30px;
+	clear: both;
+}
+
+#nav-list{
+	padding-top: 10px;
+	background-color: #13406d;
+}
+
+
+#nav-list a{
+	color: #fff;
+	text-align: center;
+}
+
+#nav-list a:hover{
+	background-color: #2E89E4;
+}
+
+#content{
+	height: 1000px;
+	background-color: #13406d;
+	margin-bottom: 20px;
+}
+
+#content-title{
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
